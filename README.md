@@ -18,4 +18,4 @@ A classic Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript. Features 
 2. CSS
 3. JavaScript
 
-
+![Alt text](C:\Users\TwitterStore\OneDrive\الصور\لقطات الشاشة\Screenshot 2024-12-29 213012.png)
